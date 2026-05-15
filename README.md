@@ -1,12 +1,45 @@
-# React + Vite
+# 💸 Split Bill App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and interactive React application to manage shared expenses with friends.  
+Users can add friends, split bills, and track who owes whom.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+👫 Add new friends  
+💰 Split bills easily  
+📊 Track balances dynamically  
+🔄 Real-time state updates  
+⚛️ Built using React Hooks  
+🎨 Clean and responsive UI  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+
+- React
+- JavaScript (ES6+)
+- CSS
+- React Hooks (`useState`)
+
+---
+
+## 📸 Functionality
+
+### ✅ Add Friends
+Users can:
+- add a friend's name
+- attach an avatar image
+
+---
+
+### ✅ Split Bills
+Track:
+- total bill amount
+- your contribution
+- friend's contribution
+- who paid the bill
+
+---
+<img width="1046" height="550" alt="Screenshot 2026-05-15 at 12 31 52 PM" src="https://github.com/user-attachments/assets/813c16f3-6435-4f4b-8108-92c3e5b28371" />
